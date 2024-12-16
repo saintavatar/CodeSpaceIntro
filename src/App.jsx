@@ -33,7 +33,6 @@ const siteProps = {
   medium: "",
   twitter: "",
   youTube: "",
-  credly: "https://www.credly.com/users/joe-roberts.c3bc4b88",
 };
 
 const primaryColor = "#4E567E";
