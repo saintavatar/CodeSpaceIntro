@@ -27205,7 +27205,7 @@ var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackground
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I'm a Computer Science student studying at Southern New Hampshire University. I enjoy learning new things and ave a natural curiousity about technology.";
+ */ const description = "I'm a Computer Science student studying at Southern New Hampshire University. I enjoy learning new things and have a natural curiousity about technology.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
