@@ -40,8 +40,7 @@ const projectList = [
     title: "My Credly Badges",
     description:
      "These badges represent my academic accomplishments",
-     url: "https://www.credly.com/users/joe-roberts.c3bc4b88",
-
+    url: "https://credly.com/users/joe-roberts.c3bc4b88",
   },
 ];
 
