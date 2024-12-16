@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Computer Science student studying at Southern New Hampshire University. I enjoy learning new things and have a natural curiousity about technology and science.";
+  "I'm a Computer Science student studying at Southern New Hampshire University. I enjoy learning new things about technology and science.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
