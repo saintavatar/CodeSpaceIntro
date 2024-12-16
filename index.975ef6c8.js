@@ -27115,7 +27115,7 @@ var _stylesCss = require("./styles.css");
     email: "Saintavatar@live.com",
     gitHub: "saintavatar",
     instagram: "",
-    linkedIn: "www.linkedin.com/in/joseph-roberts-155019256",
+    linkedIn: "joseph-roberts-155019256",
     medium: "",
     twitter: "",
     youTube: ""
