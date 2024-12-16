@@ -28789,7 +28789,7 @@ const imageAltText = "desktop with Code";
     {
         title: "My Credly Badges",
         description: "These badges represent my academic accomplishments",
-        url: "https://credly.com/users/joe-roberts.c3bc4b88"
+        url: "https://credly.com"
     }, 
 ];
 const Portfolio = ()=>{
