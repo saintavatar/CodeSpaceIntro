@@ -36,6 +36,13 @@ const projectList = [
       "My LinkedIn profile. Includes my experience and abilities.",
     url: "https://linkedin.com/in/joseph-roberts-155019256",
   },
+  {
+    title: "My Credly Badges",
+    description:
+     "These badges represent my academic accomplishments",
+     url: "https://www.credly.com/users/joe-roberts.c3bc4b88",
+
+  },
 ];
 
 const Portfolio = () => {
