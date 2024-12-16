@@ -27,7 +27,7 @@ const siteProps = {
   name: "Joseph Roberts",
   title: "Computer Science Student",
   email: "Saintavatar@live.com",
-  gitHub: "https://www.Gitub.com/saintavatar",
+  gitHub: "www.Github.com/saintavatar",
   instagram: "",
   linkedIn: "www.linkedin.com/in/joseph-roberts-155019256",
   medium: "",
