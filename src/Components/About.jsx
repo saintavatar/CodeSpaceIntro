@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Computer Science student studying at Southern New Hampshire University. I enjoy learning new things and ave a natural curiousity about technology.";
+  "I'm a Computer Science student studying at Southern New Hampshire University. I enjoy learning new things and have a natural curiousity about technology.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my hands-on experience I continually look for new and better ways to make tech accessible by all.";
 
 const About = () => {
   return (
