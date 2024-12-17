@@ -27267,7 +27267,7 @@ const About = ()=>{
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
                         style: {
-                            textAlign: "left",
+                            textAlign: "center",
                             columns: 1,
                             fontSize: "1.25rem",
                             margin: "2rem 3rem",
