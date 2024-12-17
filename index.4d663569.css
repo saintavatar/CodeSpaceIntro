@@ -96,6 +96,18 @@ a:hover {
   color: #4e567e;
 }
 
+.centered-list {
+  text-align: center;
+  margin: 0 auto;
+  padding: 0;
+  list-style-position: inside;
+  display: inline-block;
+}
+
+.centered-list li {
+  display: list-item;
+}
+
 .container {
   grid-gap: 20px;
   grid-template-columns: 330px 300px;
