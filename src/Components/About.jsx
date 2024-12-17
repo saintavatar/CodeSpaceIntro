@@ -65,7 +65,7 @@ const About = () => {
         <hr />
         <ul
           style={{
-            textAlign: "left",
+            textAlign: "center",
             columns: 1,
             fontSize: "1.25rem",
             margin: "2rem 3rem",
